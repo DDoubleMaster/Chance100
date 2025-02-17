@@ -29,13 +29,9 @@ int main()
         while(wastedAttempt < attemptCount){
             cout << "Attempt number " << wastedAttempt + 1 << ":";
             int selectNum; cin >> selectNum;
-            if (cin.fail()) {
+            if (cin.fail() || selectNum < 1 || selectNum > 100) {
                 cin.clear();
                 cin.ignore(numeric_limits<streamsize>::max(), '\n');
-                continue;
-            }
-
-            if (selectNum < 1 || selectNum > 100) {
                 cout << "Please, write num from 1 to 100" << endl;
                 continue;
             }
