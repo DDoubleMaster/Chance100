@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CHINGIZ\\source\\repos\\Chance100\\",
+  "WorkspaceRootPath": "C:\\Projects\\C\u002B\u002B\\Chance100\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37871A50-F660-4CC2-8574-6021144ED623}|Chance100.vcxproj|C:\\Users\\CHINGIZ\\source\\repos\\Chance100\\Chance100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{37871A50-F660-4CC2-8574-6021144ED623}|Chance100.vcxproj|C:\\Projects\\C\u002B\u002B\\Chance100\\Chance100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{37871A50-F660-4CC2-8574-6021144ED623}|Chance100.vcxproj|solutionrelative:Chance100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Chance100.cpp",
-              "DocumentMoniker": "C:\\Users\\CHINGIZ\\source\\repos\\Chance100\\Chance100.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B\\Chance100\\Chance100.cpp",
               "RelativeDocumentMoniker": "Chance100.cpp",
-              "ToolTip": "C:\\Users\\CHINGIZ\\source\\repos\\Chance100\\Chance100.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B\\Chance100\\Chance100.cpp",
               "RelativeToolTip": "Chance100.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-15T09:30:53.294Z",
               "EditorCaption": ""
